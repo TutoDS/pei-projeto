@@ -1,4 +1,10 @@
 # Projeto de PEI
+> Repositório copiado do GitLab ([link](https://gitlab.com/jdaniel.asousa/pei-project))
+
+
+## Elaborado por:
+- Daniel Sousa
+- João Coimbra
 
 ## Todos os detalhes sbore o projeto estão detalhadamente apresentados na **Wiki**.
 
