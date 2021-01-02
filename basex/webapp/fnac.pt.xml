@@ -1,0 +1,787 @@
+<shop:shop xmlns:shop="http://www.shop-compare.pt/shop">
+  <name>fnac.pt</name>
+  <url>https://www.fnac.pt/</url>
+  <logo>https://www.fnac.pt/assets/images/favicon/apple-touch-icon.png</logo>
+  <products>
+    <product>
+      <productID>7166673</productID>
+      <title>Xiaomi Mi 9 Lite</title>
+      <description>64GB - Black </description>
+      <link>https://www.fnac.pt/Smartphone-Xiaomi-Mi-9-Lite-64GB-Black-Telemovel-SmartPhone-Android/a7166673#omnsearchpos=1</link>
+      <brand>Xiaomi</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/ca/73/55/5600202/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [339.99,339.99,339.99,339.99,339.99,339.99,339.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>339.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6808609</productID>
+      <title>Samsung Galaxy A10</title>
+      <description>A105F - Azul </description>
+      <link>https://www.fnac.pt/Smartphone-Samsung-Galaxy-A10-A105F-Azul-Telemovel-SmartPhone-Android/a6808609#omnsearchpos=2</link>
+      <brand>Samsung</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/33/80/50/5275699/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [149.99,149.99,149.99,149.99,149.99,149.99,149.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>149.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>149.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>149.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>149.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>149.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>149.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>149.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6587860</productID>
+      <title>Samsung Galaxy S10+</title>
+      <description>G975FZ - 128GB - Preto </description>
+      <link>https://www.fnac.pt/Samsung-Galaxy-S10-G975FZ-128GB-Preto-Telemovel-SmartPhone-Android/a6587860#omnsearchpos=3</link>
+      <brand>Samsung</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/a9/5c/4d/5069993/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [849.99,849.99,849.99,849.99,849.99,849.99,849.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>849.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6756032</productID>
+      <title>Samsung Galaxy A70</title>
+      <description>A705F - Preto </description>
+      <link>https://www.fnac.pt/Smartphone-Samsung-Galaxy-A70-A705F-Preto-Telemovel-SmartPhone-Android/a6756032#omnsearchpos=4</link>
+      <brand>Samsung</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/4c/c3/4f/5227340/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [399.99,399.99,399.99,399.99,399.99,399.99,399.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>399.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6714848</productID>
+      <title>Xiaomi Redmi 7</title>
+      <description>64GB - Eclipse Black </description>
+      <link>https://www.fnac.pt/Smartphone-Xiaomi-Redmi-7-64GB-Eclipse-Black-Telemovel-SmartPhone-Android/a6714848#omnsearchpos=5</link>
+      <brand>Xiaomi</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/1c/2e/4f/5189148/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [199.99,199.99,199.99,199.99,199.99,199.99,199.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>199.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>7017100</productID>
+      <title>Xiaomi Mi A3</title>
+      <description>128GB - Grey </description>
+      <link>https://www.fnac.pt/Smartphone-Xiaomi-Mi-A3-128GB-Grey-Telemovel-SmartPhone-Android/a7017100#omnsearchpos=6</link>
+      <brand>Xiaomi</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/61/6a/53/5466721/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [339.99,339.99,339.99,339.99,339.99,339.99,339.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>339.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>339.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6697235</productID>
+      <title>Sony Xperia 10 Plus</title>
+      <description>64GB - Preto </description>
+      <link>https://www.fnac.pt/Smartphone-Sony-Xperia-10-Plus-64GB-Preto-Telemovel-SmartPhone-Android/a6697235#omnsearchpos=7</link>
+      <brand>Sony Mobile</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/71/ec/4e/5172337/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [329.99,329.99,329.99,329.99,329.99,329.99,329.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>329.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>329.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>329.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>329.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>329.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>329.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>329.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>7013562</productID>
+      <title>Samsung Galaxy Note10+</title>
+      <description>N975FZ - 256GB - Preto Aura </description>
+      <link>https://www.fnac.pt/Samsung-Galaxy-Note10-N975FZ-256GB-Preto-Aura-Telemovel-SmartPhone-Android/a7013562#omnsearchpos=8</link>
+      <brand>Samsung</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/2f/5e/53/5463599/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [1029.99,1029.99,1029.99,1029.99,1029.99,1029.99,1029.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>1029.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>1029.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>1029.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>1029.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>1029.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>1029.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>1029.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>7000506</productID>
+      <title>Wiko Y50</title>
+      <description>16GB - Gold </description>
+      <link>https://www.fnac.pt/Smartphone-Wiko-Y50-16GB-Gold-Telemovel-SmartPhone-Android/a7000506#omnsearchpos=9</link>
+      <brand>Wiko</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/4c/2e/53/5451340/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [79.99,79.99,79.99,79.99,79.99,79.99,79.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>79.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>79.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>79.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>79.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>79.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>79.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>79.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>5686996</productID>
+      <title>Sony Xperia XA2 Plus</title>
+      <description>32GB - Preto </description>
+      <link>https://www.fnac.pt/Smartphone-Sony-Xperia-XA2-Plus-32GB-Preto-Telemovel-SmartPhone-Android/a5686996#omnsearchpos=10</link>
+      <brand>Sony Mobile</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/00/dc/42/4381696/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [199.99,199.99,199.99,199.99,199.99,199.99,199.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>199.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>199.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6756031</productID>
+      <title>Samsung Galaxy A70</title>
+      <description>A705F - Azul </description>
+      <link>https://www.fnac.pt/Smartphone-Samsung-Galaxy-A70-A705F-Azul-Telemovel-SmartPhone-Android/a6756031#omnsearchpos=11</link>
+      <brand>Samsung</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/4b/c3/4f/5227339/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [399.99,399.99,399.99,399.99,399.99,399.99,399.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>399.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6705637</productID>
+      <title>Huawei P30 Pro</title>
+      <description>128GB - Laranja </description>
+      <link>https://www.fnac.pt/Smartphone-Huawei-P30-Pro-128GB-Laranja-Telemovel-SmartPhone-Android/a6705637#omnsearchpos=12</link>
+      <brand>Huawei</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/5c/0c/4f/5180508/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [749.99,749.99,749.99,749.99,749.99,749.99,749.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>749.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>749.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>749.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>749.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>749.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>749.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>749.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6944374</productID>
+      <title>Nokia 2.2</title>
+      <description>16GB - Black </description>
+      <link>https://www.fnac.pt/Smartphone-Nokia-2-2-16GB-Black-Telemovel-SmartPhone-Android/a6944374#omnsearchpos=13</link>
+      <brand>Nokia</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/57/60/52/5398615/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [99.99,99.99,99.99,99.99,99.99,99.99,99.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>99.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>99.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>99.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>99.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>99.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>99.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>99.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6994594</productID>
+      <title>OnePlus 7 Pro</title>
+      <description>256GB - 8GB - Almond </description>
+      <link>https://www.fnac.pt/Smartphone-OnePlus-7-Pro-256GB-8GB-Almond-Telemovel-SmartPhone-Android/a6994594#omnsearchpos=14</link>
+      <brand>Oneplus</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/95/19/53/5446037/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [749.00,749.00,749.00,749.00,749.00,749.00,749.00], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>749.00</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>749.00</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>749.00</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>749.00</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>749.00</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>749.00</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>749.00</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6587857</productID>
+      <title>Samsung Galaxy S10</title>
+      <description>G973FZ - 128GB - Preto </description>
+      <link>https://www.fnac.pt/Samsung-Galaxy-S10-G973FZ-128GB-Preto-Telemovel-SmartPhone-Android/a6587857#omnsearchpos=15</link>
+      <brand>Samsung</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/a6/5c/4d/5069990/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [699.99,699.99,699.99,699.99,699.99,699.99,699.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>699.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>7166968</productID>
+      <title>Cubot X19</title>
+      <description>64GB - Gradient </description>
+      <link>https://www.fnac.pt/Smartphone-Cubot-X19-64GB-Gradient-Telemovel-SmartPhone-Android/a7166968#omnsearchpos=16</link>
+      <brand>Cubot</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/ed/74/55/5600493/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [139.99,139.99,139.99,139.99,139.99,139.99,139.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>139.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>139.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>139.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>139.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>139.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>139.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>139.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>6752546</productID>
+      <title>Huawei P30 Lite</title>
+      <description>128GB - Preto </description>
+      <link>https://www.fnac.pt/Smartphone-Huawei-P30-Lite-128GB-Preto-Telemovel-SmartPhone-Android/a6752546#omnsearchpos=17</link>
+      <brand>Huawei</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/e9/b6/4f/5224169/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [279.99,279.99,279.99,279.99,279.99,279.99,279.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>279.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>279.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>279.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>279.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>279.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>279.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>279.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>7347768</productID>
+      <title>Samsung Galaxy Fold</title>
+      <description>512GB - Space Silver </description>
+      <link>https://www.fnac.pt/Samsung-Galaxy-Fold-512GB-Space-Silver-Telemovel-SmartPhone-Android/a7347768#omnsearchpos=18</link>
+      <brand>Samsung</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/0a/fd/57/5766410/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [2049.99,2049.99,2049.99,2049.99,2049.99,2049.99,2049.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>2049.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>2049.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>2049.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>2049.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>2049.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>2049.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>2049.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>987853</productID>
+      <title>Apple iPhone 7</title>
+      <description>128GB (Preto Mate) </description>
+      <link>https://www.fnac.pt/Apple-iPhone-7-128GB-Preto-Mate-Telemovel-iPhone/a987853#omnsearchpos=19</link>
+      <brand>Apple</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/65/ea/0e/977509/1545-1/tsp20160909180455/Apple-iPhone-7-128GB-Preto-Mate.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [509.99,509.99,509.99,509.99,509.99,509.99,509.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>509.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>509.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>509.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>509.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>509.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>509.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>509.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1494148</productID>
+      <title>Nokia 216</title>
+      <description>Preto </description>
+      <link>https://www.fnac.pt/Nokia-216-Preto-Telemovel-Telemovel/a1494148#omnsearchpos=20</link>
+      <brand>Nokia</brand>
+      <image>https://static.fnac-static.com/multimedia/Images/PT/NR/07/6a/16/1468935/1545-1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:25','19/1/2020 15:27','19/1/2020 15:29','19/1/2020 15:31','19/1/2020 15:33','19/1/2020 15:35','19/1/2020 15:37'],datasets:[{label:'Preço', data: [44.99,44.99,44.99,44.99,44.99,44.99,44.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:25</dateTime>
+          <price>44.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:27</dateTime>
+          <price>44.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:29</dateTime>
+          <price>44.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:31</dateTime>
+          <price>44.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:33</dateTime>
+          <price>44.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:35</dateTime>
+          <price>44.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:37</dateTime>
+          <price>44.99</price>
+        </price_history>
+      </history>
+    </product>
+  </products>
+</shop:shop>

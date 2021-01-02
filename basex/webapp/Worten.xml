@@ -1,0 +1,1879 @@
+<shop:shop xmlns:shop="http://www.shop-compare.pt/shop">
+  <name>Worten</name>
+  <url>https://www.worten.pt</url>
+  <logo>https://www.worten.pt/img/w-logo-worten.svg</logo>
+  <products>
+    <product>
+      <productID>1065504353</productID>
+      <title>SAMSUNG Galaxy A51</title>
+      <description>6.5'' - 4 GB - 128 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-samsung-galaxy-a51-6-5-4-gb-128-gb-preto-7087130</link>
+      <brand>SAMSUNG</brand>
+      <image>https://worten.pt/i/6f3b0b04ab0a198b46b297e8623e83c45783a456.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [399.99,399.99,399.99,399.99,399.99,399.99,399.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>399.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064019776</productID>
+      <title>iPhone 11 APPLE</title>
+      <description>6.1'' - 64 GB - Branco</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone-11-apple-6-1-64-gb-branco-7016621</link>
+      <brand>APPLE</brand>
+      <image>https://worten.pt/i/c8701ecda41233dd665e7cbaef7fc1cc10a09746.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [789.99,789.99,789.99,789.99,789.99,789.99,789.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>789.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>789.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>789.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>789.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>789.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>789.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>789.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064019705</productID>
+      <title>iPhone 11 APPLE</title>
+      <description>6.1'' - 64 GB - Verde</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone-11-apple-6-1-64-gb-verde-7016625</link>
+      <brand>APPLE</brand>
+      <image>https://worten.pt/i/88773c717f71382d2d4d077715fde06f860f18dc.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [782.98,782.98,782.98,782.98,782.98,782.98,782.98], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>782.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>782.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>782.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>782.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>782.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>782.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>782.98</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064019588</productID>
+      <title>iPhone 11 APPLE</title>
+      <description>6.1'' - 64 GB - Roxo</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone-11-apple-6-1-64-gb-roxo-7016624</link>
+      <brand>APPLE</brand>
+      <image>https://worten.pt/i/378c5cbc2d0a13cc32bec7caa82f3fda3adacbd5.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [780.99,780.99,780.99,780.99,780.99,780.99,780.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>780.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>780.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>780.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>780.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>780.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>780.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>780.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064019881</productID>
+      <title>iPhone 11 APPLE</title>
+      <description>6.1'' - 64 GB - Amarelo</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone-11-apple-6-1-64-gb-amarelo-7016623</link>
+      <brand>APPLE</brand>
+      <image>https://worten.pt/i/938ea5d8cf2710bf893aa7938ac5829f913ed304.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [794.99,794.99,794.99,794.99,794.99,794.99,794.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>794.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>794.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>794.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>794.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>794.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>794.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>794.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064019716</productID>
+      <title>iPhone 11 APPLE</title>
+      <description>6.1'' - 64 GB - Vermelho</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone-11-apple-6-1-64-gb-vermelho-7016622</link>
+      <brand>APPLE</brand>
+      <image>https://worten.pt/i/bf7f16dd8a90902763be69a22d568d25ec33d0f4.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [772.98,772.98,772.98,772.98,772.98,772.98,772.98], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>772.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>772.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>772.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>772.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>772.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>772.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>772.98</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1056040332</productID>
+      <title>SAMSUNG Galaxy S10</title>
+      <description>6.1'' - 8 GB - 128 GB - Verde Prisma</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-samsung-galaxy-s10-6-1-8-gb-128-gb-verde-prisma-6862941</link>
+      <brand>SAMSUNG</brand>
+      <image>https://worten.pt/i/4db8e2e5a71d96bca16c0c2cc0657a1c1dcbe2d1.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [699.99,699.99,699.99,699.99,699.99,699.99,699.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>699.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>699.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1062329515</productID>
+      <title>SAMSUNG Galaxy Note 10</title>
+      <description>6.3'' - 8 GB - 256 GB - Prateado</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-samsung-galaxy-note-10-6-3-8-gb-256-gb-prateado-6972837</link>
+      <brand>SAMSUNG</brand>
+      <image>https://worten.pt/i/f07cf8e5c754c9b8016ade29e2c804ecf91a329e.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [849.99,849.99,849.99,849.99,849.99,849.99,849.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>849.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1062330014</productID>
+      <title>SAMSUNG Galaxy Note 10</title>
+      <description>6.3'' - 8 GB - 256 GB - Rosa</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-samsung-galaxy-note-10-6-3-8-gb-256-gb-rosa-6972836</link>
+      <brand>SAMSUNG</brand>
+      <image>https://worten.pt/i/23c86216c296a03df4a8a6549b2e84a124adc3a0.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [849.99,849.99,849.99,849.99,849.99,849.99,849.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>849.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>849.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1062088760</productID>
+      <title>iPhone 7 Plus Recondicionado APPLE</title>
+      <description>Grade A - 5.5'' - 3 GB - 32 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone-7-plus-recondicionado-apple-grade-a-5-5-3-gb-32-gb-preto-6956020</link>
+      <brand>APPLE</brand>
+      <image>https://worten.pt/i/0636655c4f003913f5fcecb4903fabbbb05847d0.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [379.99,379.99,379.99,379.99,379.99,379.99,379.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>379.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>379.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>379.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>379.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>379.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>379.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>379.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064281186</productID>
+      <title>TCL PLEX</title>
+      <description>6.53'' - 6 GB - 128 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-tcl-plex-6-53-6-gb-128-gb-preto-7023391</link>
+      <brand>TCL</brand>
+      <image>https://worten.pt/i/92265e9e2f90be90907e1e7c1fbb82f260a1899d.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [299.99,299.99,299.99,299.99,299.99,299.99,299.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>299.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064281455</productID>
+      <title>TCL PLEX</title>
+      <description>6.53'' - 6 GB - 128 GB - Branco</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-tcl-plex-6-53-6-gb-128-gb-branco-7023392</link>
+      <brand>TCL</brand>
+      <image>https://worten.pt/i/f95b55b0b7921a54cacb54d955eca1bcb2335b6b.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [299.99,299.99,299.99,299.99,299.99,299.99,299.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>299.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>299.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1065504294</productID>
+      <title>SAMSUNG Galaxy A51</title>
+      <description>6.5'' - 4 GB - 128 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-samsung-galaxy-a51-6-5-4-gb-128-gb-azul-7087129</link>
+      <brand>SAMSUNG</brand>
+      <image>https://worten.pt/i/817c019b9bd4f8a4d0c07550e47d4973504a0e9f.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [399.99,399.99,399.99,399.99,399.99,399.99,399.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>399.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>399.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064322186</productID>
+      <title>XIAOMI Redmi Note 8 Pro</title>
+      <description>6.53'' - 6 GB - 128 GB - Cinza</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-8-pro-6-53-6-gb-128-gb-cinza-7030236</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/c7a4926d3ec34fa76876fcd1fd9f54932d98a168.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [262.9,262.9,262.9,262.9,262.9,262.9,262.9], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>262.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>262.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>262.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>262.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>262.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>262.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>262.9</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064341081</productID>
+      <title>HUAWEI Nova 5T</title>
+      <description>6.26'' - 6 GB - 128 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-huawei-nova-5t-6-26-6-gb-128-gb-azul-7037783</link>
+      <brand>HUAWEI</brand>
+      <image>https://worten.pt/i/0a7f7d624ed7d7dfb0f8e03a7881afc2e6340ba0.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [449.99,449.99,449.99,449.99,449.99,449.99,449.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>449.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064340973</productID>
+      <title>HUAWEI Nova 5T</title>
+      <description>6.26'' - 6 GB - 128 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-huawei-nova-5t-6-26-6-gb-128-gb-preto-7037782</link>
+      <brand>HUAWEI</brand>
+      <image>https://worten.pt/i/e78bfd6e8d5d9a043f3820c5fc3fc147903704ee.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [449.99,449.99,449.99,449.99,449.99,449.99,449.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>449.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>449.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064784852</productID>
+      <title>XIAOMI Redmi Note 8</title>
+      <description>6.3'' - 4 GB - 64 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-8-6-3-4-gb-64-gb-preto-MRKEAN-6941059630876</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/1e151c8d72441aa7d3969ebe8e853fc9284faa74.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [195.99,195.99,195.99,195.99,195.99,195.99,195.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>195.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>195.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>195.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>195.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>195.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>195.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>195.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064322095</productID>
+      <title>XIAOMI Redmi Note 8 Pro</title>
+      <description>6.53'' - 6 GB - 128 GB - Verde</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-8-pro-6-53-6-gb-128-gb-verde-7030234</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/96a07f725befd3bb41b270a0f30b35684b3bf768.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [250.98,250.98,250.98,250.98,250.98,250.98,250.98], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>250.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>250.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>250.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>250.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>250.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>250.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>250.98</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1062079633</productID>
+      <title>XIAOMI Mi A3</title>
+      <description>6.08'' - 4 GB - 64 GB - Branco</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-a3-6-08-4-gb-64-gb-branco-6955471</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/319a4968f14536d34f4c623a0527feab94ed8315.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [192,192,192,192,192,192,192], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>192</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>192</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>192</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>192</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>192</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>192</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>192</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1058792496</productID>
+      <title>XIAOMI Redmi Note 7</title>
+      <description>6.3'' - 4 GB - 128 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-7-6-3-4-gb-128-gb-preto-6876810</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/2d09167f59737dff4d39e90ec41257a965d50a95.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [199.9,199.9,199.9,199.9,199.9,199.9,199.9], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>199.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>199.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>199.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>199.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>199.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>199.9</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>199.9</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064321905</productID>
+      <title>XIAOMI Redmi Note 8 Pro</title>
+      <description>6.53'' - 6 GB - 128 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-8-pro-6-53-6-gb-128-gb-azul-7030238</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/7a92b3f5a90e0ed7b77e61e022e48f4101084a59.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [267.99,267.99,267.99,267.99,267.99,267.99,267.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>267.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>267.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>267.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>267.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>267.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>267.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>267.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064784814</productID>
+      <title>XIAOMI Redmi Note 8</title>
+      <description>6.3'' - 4 GB - 64 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-8-6-3-4-gb-64-gb-azul-MRKEAN-6941059630883</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/a1a4f65db0bd1378de539cc58b011741cbe556f9.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [210.68,210.68,210.68,210.68,210.68,210.68,210.68], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>210.68</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>210.68</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>210.68</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>210.68</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>210.68</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>210.68</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>210.68</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064322248</productID>
+      <title>XIAOMI Mi 9 Lite</title>
+      <description>6.39'' - 6 GB - 64 GB - Cinza</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9-lite-6-39-6-gb-64-gb-cinza-7030224</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/362249babe8c1b7af1cce9f5ce4683d6d23baa62.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [255,255,255,255,255,255,255], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>255</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>255</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>255</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>255</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>255</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>255</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>255</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064904129</productID>
+      <title>XIAOMI Mi Note 10</title>
+      <description>6.47'' - 6 GB - 128 GB - Branco</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-note-10-6-47-6-gb-128-gb-branco-7067959</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/088e386fa8edd622fb537b28a9b360da50175d25.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [444.98,444.98,444.98,444.98,444.98,444.98,444.98], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>444.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>444.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>444.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>444.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>444.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>444.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>444.98</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064322197</productID>
+      <title>XIAOMI Redmi Note 8 Pro</title>
+      <description>6.53'' - 6 GB - 128 GB - Branco</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-8-pro-6-53-6-gb-128-gb-branco-7030235</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/10bbe597ba5b0a2add91f7eb97704e842c5fe255.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [252.7,252.7,252.7,252.7,252.7,252.7,252.7], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>252.7</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>252.7</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>252.7</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>252.7</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>252.7</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>252.7</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>252.7</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1062423991</productID>
+      <title>XIAOMI Mi A3</title>
+      <description>6.08'' - 4 GB - 128 GB - Cinza</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-a3-6-08-4-gb-128-gb-cinza-6998217</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/821a1dedc44cec041a441642c1338cf0f0d5e38d.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [195.62,195.62,195.62,195.62,195.62,195.62,195.62], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>195.62</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>195.62</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>195.62</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>195.62</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>195.62</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>195.62</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>195.62</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064998377</productID>
+      <title>XIAOMI Redmi Note 8T</title>
+      <description>6.3'' - 4 GB - 128 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-8t-6-3-4-gb-128-gb-azul-7069667</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/8fb0fc8466cb2c6df46416546b55d59c0efbc622.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [216.77,216.77,216.77,216.77,216.77,216.77,216.77], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>216.77</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>216.77</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>216.77</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>216.77</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>216.77</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>216.77</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>216.77</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064322053</productID>
+      <title>XIAOMI Redmi Note 8 Pro</title>
+      <description>6.53'' - 6 GB - 64 GB - Verde</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-8-pro-6-53-6-gb-64-gb-verde-7030231</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/96a07f725befd3bb41b270a0f30b35684b3bf768.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [231.3,231.3,231.3,231.3,231.3,231.3,231.3], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>231.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>231.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>231.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>231.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>231.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>231.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>231.3</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1058792568</productID>
+      <title>XIAOMI Redmi Note 7</title>
+      <description>6.3'' - 4 GB - 128 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-7-6-3-4-gb-128-gb-azul-6876811</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/c472e3fdd1e4379ee5b7b11c9f9680094b71fd84.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [199,199,199,199,199,199,199], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>199</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>199</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>199</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>199</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>199</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>199</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>199</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064321974</productID>
+      <title>XIAOMI Redmi Note 8 Pro</title>
+      <description>6.53'' - 6 GB - 64 GB - Branco</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-8-pro-6-53-6-gb-64-gb-branco-7030232</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/10bbe597ba5b0a2add91f7eb97704e842c5fe255.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [234.3,234.3,234.3,234.3,234.3,234.3,234.3], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>234.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>234.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>234.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>234.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>234.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>234.3</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>234.3</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1063362039</productID>
+      <title>XIAOMI Mi 9T Pro</title>
+      <description>6.39'' - 6 GB - 128 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9t-pro-6-39-6-gb-128-gb-preto-7006971</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/d3807911724d061c788ab6b36dfccb96735c65a8.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [381.98,381.98,381.98,381.98,381.98,381.98,381.98], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>381.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>381.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>381.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>381.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>381.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>381.98</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>381.98</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1062375498</productID>
+      <title>XIAOMI Mi 9T</title>
+      <description>6.39'' - 6 GB - 128 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9t-6-39-6-gb-128-gb-azul-6998211</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/e5fa56ed62ab1ad8e834d9737b79ab893eb80749.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [340.09,340.09,340.09,340.09,340.09,340.09,340.09], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>340.09</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>340.09</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>340.09</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>340.09</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>340.09</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>340.09</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>340.09</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1062869133</productID>
+      <title>XIAOMI Mi A3</title>
+      <description>6.08'' - 4 GB - 128 GB - Branco</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-a3-6-08-4-gb-128-gb-branco-6998219</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/464656c46fc28be043577344cfc9c7ab63147461.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [242.51,242.51,242.51,242.51,242.51,242.51,242.51], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>242.51</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>242.51</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>242.51</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>242.51</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>242.51</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>242.51</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>242.51</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064322116</productID>
+      <title>XIAOMI Mi 9 Lite</title>
+      <description>6.39'' - 6 GB - 128 GB - Cinza</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9-lite-6-39-6-gb-128-gb-cinza-7030227</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/362249babe8c1b7af1cce9f5ce4683d6d23baa62.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [298,298,298,298,298,298,298], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>298</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>298</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>298</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>298</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>298</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>298</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>298</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1054245235</productID>
+      <title>XIAOMI Mi A2</title>
+      <description>5.99'' - 4 GB - 64 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-a2-5-99-4-gb-64-gb-preto-6650344</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/9f7d77d1fff2516b59570fb374e2214e13d2915d.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [194.78,194.78,194.78,194.78,194.78,194.78,194.78], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>194.78</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>194.78</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>194.78</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>194.78</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>194.78</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>194.78</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>194.78</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064860597</productID>
+      <title>XIAOMI Mi 9T</title>
+      <description>6.39'' - 6 GB - 128 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9t-6-39-6-gb-128-gb-azul-MRKEAN-0749390564876</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/74c09ee278b013f106e4c123d9d862a520461750.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [338,338,338,338,338,338,338], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>338</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>338</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>338</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>338</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>338</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>338</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>338</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064322240</productID>
+      <title>XIAOMI Redmi Note 8 Pro</title>
+      <description>6.53'' - 6 GB - 64 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-redmi-note-8-pro-6-53-6-gb-64-gb-azul-7030230</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/6322918ab155b61e7a0d0d5402fa37f7925a941a.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [236.99,236.99,236.99,236.99,236.99,236.99,236.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>236.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>236.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>236.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>236.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>236.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>236.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>236.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1058802422</productID>
+      <title>XIAOMI Mi 9</title>
+      <description>6.39'' - 6 GB - 64 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9-6-39-6-gb-64-gb-azul-6895301</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/128847e3391b7106bccdab6c1ecc149feb2dd187.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [367,367,367,367,367,367,367], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>367</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>367</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>367</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>367</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>367</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>367</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>367</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064904166</productID>
+      <title>XIAOMI Mi Note 10</title>
+      <description>6.47'' - 6 GB - 128 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-note-10-6-47-6-gb-128-gb-preto-7067953</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/2b609c32fd6630e871d732f299ddd1c5062e5f32.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [426.48,426.48,426.48,426.48,426.48,426.48,426.48], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>426.48</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>426.48</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>426.48</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>426.48</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>426.48</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>426.48</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>426.48</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1058802487</productID>
+      <title>XIAOMI Mi 9</title>
+      <description>6.39'' - 6 GB - 64 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9-6-39-6-gb-64-gb-preto-6895300</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/6d85d29ccbe903d6efbb48c10a0c6963a568e629.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [377.89,377.89,377.89,377.89,377.89,377.89,377.89], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>377.89</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>377.89</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>377.89</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>377.89</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>377.89</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>377.89</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>377.89</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064321980</productID>
+      <title>XIAOMI Mi 9 Lite</title>
+      <description>6.39'' - 6 GB - 64 GB - Branco</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9-lite-6-39-6-gb-64-gb-branco-7030226</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/76414afb92de204721d83b8731d9ee56e2f151c0.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [280.69,280.69,280.69,280.69,280.69,280.69,280.69], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>280.69</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>280.69</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>280.69</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>280.69</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>280.69</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>280.69</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>280.69</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064321959</productID>
+      <title>XIAOMI Mi 9 Lite</title>
+      <description>6.39'' - 6 GB - 64 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9-lite-6-39-6-gb-64-gb-azul-7030225</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/ff3d673882d2f3326fcfb99e4ca33bbbd93ce2ee.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [268,268,268,268,268,268,268], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>268</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>268</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>268</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>268</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>268</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>268</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>268</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1060694625</productID>
+      <title>XIAOMI Mi 9 SE</title>
+      <description>5.97'' - 6 GB - 128 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9-se-5-97-6-gb-128-gb-preto-6920482</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/a476e84d18519c4a1934ef650834ee6af1e44997.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [331.53,331.53,331.53,331.53,331.53,331.53,331.53], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>331.53</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>331.53</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>331.53</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>331.53</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>331.53</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>331.53</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>331.53</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1064321916</productID>
+      <title>XIAOMI Mi 9 Lite</title>
+      <description>6.39'' - 6 GB - 128 GB - Branco</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9-lite-6-39-6-gb-128-gb-branco-7030229</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/76414afb92de204721d83b8731d9ee56e2f151c0.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [297,297,297,297,297,297,297], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>297</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>297</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>297</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>297</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>297</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>297</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>297</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1062423992</productID>
+      <title>XIAOMI Mi A3</title>
+      <description>6.08'' - 4 GB - 128 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-a3-6-08-4-gb-128-gb-azul-6998218</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/66c3f7a2e19ab7ad9713c45137cb81fa9ca48553.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [208,208,208,208,208,208,208], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>208</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>208</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>208</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>208</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>208</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>208</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>208</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1062375465</productID>
+      <title>XIAOMI Mi 9T</title>
+      <description>6.39'' - 6 GB - 64 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9t-6-39-6-gb-64-gb-azul-6998207</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/988b062db60a751a6d5f47aeec2e0515b081d415.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [298.99,298.99,298.99,298.99,298.99,298.99,298.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>298.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>298.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>298.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>298.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>298.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>298.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>298.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1063362078</productID>
+      <title>XIAOMI Mi 9T Pro</title>
+      <description>6.39'' - 6 GB - 128 GB - Azul</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9t-pro-6-39-6-gb-128-gb-azul-7006970</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/0a9488390e57ccf640f977ecae36b2d66691a208.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [384.99,384.99,384.99,384.99,384.99,384.99,384.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>384.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>384.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>384.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>384.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>384.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>384.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>384.99</price>
+        </price_history>
+      </history>
+    </product>
+    <product>
+      <productID>1061643321</productID>
+      <title>XIAOMI Mi 9T</title>
+      <description>6.39'' - 6 GB - 128 GB - Preto</description>
+      <link>https://worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/smartphone-xiaomi-mi-9t-6-39-6-gb-128-gb-preto-6939603</link>
+      <brand>XIAOMI</brand>
+      <image>https://worten.pt/i/980f7605164de13e9b23ed6fe7f6e1005d80b386.jpg</image>
+      <graph>https://quickchart.io/chart?c={type:'line',data:{labels:['19/1/2020 15:26','19/1/2020 15:28','19/1/2020 15:30','19/1/2020 15:32','19/1/2020 15:34','19/1/2020 15:36','19/1/2020 15:38'],datasets:[{label:'Preço', data: [317.99,317.99,317.99,317.99,317.99,317.99,317.99], fill:false,borderColor:'blue',backgroundColor:'white'}]}}</graph>
+      <history>
+        <price_history>
+          <dateTime>19/1/2020 15:26</dateTime>
+          <price>317.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:28</dateTime>
+          <price>317.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:30</dateTime>
+          <price>317.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:32</dateTime>
+          <price>317.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:34</dateTime>
+          <price>317.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:36</dateTime>
+          <price>317.99</price>
+        </price_history>
+        <price_history>
+          <dateTime>19/1/2020 15:38</dateTime>
+          <price>317.99</price>
+        </price_history>
+      </history>
+    </product>
+  </products>
+</shop:shop>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://www.shop-compare.pt/shop">
+    
+    <xs:element name="shop" >
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="name" type="xs:string" />
+            <xs:element name="url" type="xs:string" />
+            <xs:element name="logo" type="xs:string" />
+            <xs:element name="products">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name = "product" maxOccurs="unbounded">
+                        <xs:complexType>
+        <xs:sequence>
+            <xs:element name="productID" type="xs:string" />
+            <xs:element name="title" type="xs:string" />
+            <xs:element name="description" type="xs:string" />
+            <xs:element name="link" type="xs:string" />
+            <xs:element name="brand" type="xs:string" />
+            <xs:element name="image" type="xs:string" />
+            <xs:element name="graph" type="xs:string" />
+            <xs:element name="history" >
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name = "price_history" maxOccurs="unbounded">
+                        <xs:complexType>
+        <xs:sequence>
+            <xs:element name="dateTime" type="xs:string" />
+            <xs:element name="price" type="xs:double" />
+        </xs:sequence>
+    </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            
+        </xs:sequence>
+    </xs:complexType>
+    </xs:element>
+
+    
+    
+    <!-- Shop Fields -->
+    
+    
+    <!-- History -->
+    
+    
+</xs:schema>
